@@ -1,0 +1,82 @@
+/* Tag Selectors */
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 64px;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 48px;
+}
+
+h3 {
+    color: #66BFBF;
+    font-size: 24px;
+}
+
+hr {
+    width: 4%;
+    margin: 100px auto;
+    border: dotted #66bfbf6e 6px;
+    border-bottom: none;
+}
+
+
+/* Class Selectors */
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    padding-top: 100px;
+}
+
+.persImg {
+    height: 250px;
+    width: 250px;
+}
+
+.elliptical {
+    border-radius: 100%;
+}
+
+.skill-row {
+    width: 50%;
+    text-align: left;
+    margin: 100px auto;
+}
+
+.skill-img {
+    width: 25%;
+    background-color: #66BFBF;
+    margin-left: 25px;
+}
+
+.skill-img:hover {
+    background-color: gold;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    background: #11cdd4;
+    border-radius: 8px;
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.contact-me {
+    margin-bottom: 50px;
+}
